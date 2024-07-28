@@ -1,0 +1,11 @@
+:root {
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+}
+
+body {
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+}
